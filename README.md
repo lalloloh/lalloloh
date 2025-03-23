@@ -1,5 +1,5 @@
 # Sobre mim
-- 🔭 Atualmente estou estagiando como desenvolvedor Back e Front End e ocasionalmente Mobile e sou formando em Engenharia da Computação pela faculdade Galileu que reside em minha cidade de origem. 🤩
+- 🔭 Atualmente estou estagiando como desenvolvedor Back e Front End e ocasionalmente Mobile.
 
 - 🤔 Embora seja uma área bem distinta da minha área de atuação, me afeioçoo muito por psicologia, sociologia e estudo do comportamento humano no geral.
   
